@@ -10,7 +10,14 @@ ini_set('display_errors', 1);
     <title>Admin Login</title>
 </head>
 <body>
-
+    <style>
+ body {
+            background-image: url("download.jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        </style>
 <?php include 'header.php'; ?>
 
 <form method="post">

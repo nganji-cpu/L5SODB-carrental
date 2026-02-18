@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Sonko Car Rental</title>
+	<title>kevin NIYIBIZI SOD B</title>
 	<meta charset="utf-8">
 	<meta name="author" content="pixelhint.com">
 	<meta name="description" content="La casa free real state fully responsive html5/css3 home page website template"/>
@@ -65,6 +65,8 @@
 						<li><a href="#">Terms</a></li>
 						<li><a href="#">Policy</a></li>
 						<li><a href="#">Contact</a></li>
+						<li><a href="#">kevin</a></li>
+						<li><a href="#">niyibizi</a></li>
 					</ul>
 				</li>
 

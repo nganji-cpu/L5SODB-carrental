@@ -1,11 +1,8 @@
+
 <?php
-	$host = "localhost";
-	$user = "";
-	$pass = "";
-	$db = "";
-	
-	$conn = new mysqli($host, $user, $pass, $db);
-	if($conn->connect_error){
-		echo "Failed:" . $conn->connect_error;
-	}
+$conn = new mysqli("localhost", "root", "", "carrental");
+
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
 ?>
